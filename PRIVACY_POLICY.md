@@ -515,14 +515,7 @@ As Baraka GO expands to other African countries, we will comply with applicable 
 - Compliance with EAC data protection frameworks and harmonized regulations
 - Cross-border data flow protocols within EAC member states
 
-### 12.2 Country-Specific Laws 
-We will update this Privacy Policy to reflect specific requirements in countries where we operate, such as:
-- Kenya: Data Protection Act, 2019
-- Uganda: Data Protection and Privacy Act, 2019
-- Tanzania: Personal Data Protection Act, 2022
-- [Other countries as applicable]
-
-### 12.3 Additional Rights
+### 12.2 Additional Rights
 Users in specific jurisdictions may have additional rights under local law. Please contact us for information specific to your location.
 
 ---
@@ -563,7 +556,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 **General Privacy Inquiries:**  
 Email: info@barakagroup.africa
-Phone: +250 795013860
+Phone: +250 795013860 / +250 780 614 280 / +250 788 746 940
 
 <!-- **Data Protection Officer:**  
 Email: dpo@motorapp.rw [......] -->

@@ -75,7 +75,7 @@ Service availability may be affected by factors including network connectivity, 
 
 ### 3.3 Platform Nature
 
-Motor App [.....] is a technology platform that connects Riders with Drivers. We do not provide transportation services ourselves. Transportation Services are provided by independent Drivers who use the platform.
+Baraka GO is a technology platform that connects Riders with Drivers. We do not provide transportation services ourselves. Transportation Services are provided by independent Drivers who use the platform.
 
 ---
 

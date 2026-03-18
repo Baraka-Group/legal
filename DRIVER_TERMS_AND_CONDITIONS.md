@@ -168,7 +168,7 @@ You must:
 ### 5.5 Safety
 - Your safety and the safety of Riders is paramount
 - You have the right to refuse service if you feel unsafe
-- Report any safety incidents immediately through the app [.....]
+- Report any safety incidents immediately through the app
 - Follow all safety guidelines and recommendations
 
 ---
